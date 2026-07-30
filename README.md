@@ -4,10 +4,12 @@
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Divika-23/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Divika-23/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Array
 |  |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Divika-23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
