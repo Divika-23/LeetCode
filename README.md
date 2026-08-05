@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Divika-23/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/Divika-23/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Array
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Hash Table
+|  |
+| ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/Divika-23/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
