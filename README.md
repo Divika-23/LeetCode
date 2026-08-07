@@ -7,6 +7,7 @@
 | [2413-smallest-even-multiple](https://github.com/Divika-23/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divika-23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Divika-23/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3516-find-closest-person](https://github.com/Divika-23/LeetCode/tree/master/3516-find-closest-person) |
 ## String
 |  |
 | ------- |
